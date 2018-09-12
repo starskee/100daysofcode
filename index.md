@@ -1,17 +1,14 @@
-## Welcome to starskee's trash repo
+## Welcome to starskee's python trash repo
 
 (https://jekyllrb.com/)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Week 1
+Wednesday Sept. 12th
 
 ```markdown
-Syntax highlighted code block
+Code goes here
 
-# Day 1
-## Day 2
-### Day 3
+
 
 - Bulleted
 - List
@@ -24,4 +21,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 (https://guides.github.com/features/mastering-markdown/).
-### Jekyll Themes
