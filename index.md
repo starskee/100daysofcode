@@ -1,8 +1,8 @@
-## Welcome to starskee's python ~~trash~~ repo
+## Welcome to starskee's python ~~trash~~ repo :neckbeard:
 
 I am reading Learn How to Automate the Boring Stuff with Python.
 All projects within the book will be submitted here.
-(https://jekyllrb.com/)
+
 
 ### Week 1
 Wednesday Sept. 12th
