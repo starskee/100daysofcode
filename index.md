@@ -1,14 +1,15 @@
-## Welcome to starskee's python trash repo
+## Welcome to starskee's python ~~trash~~ repo
 
+I am reading Learn How to Automate the Boring Stuff with Python.
+All projects within the book will be submitted here.
 (https://jekyllrb.com/)
 
 ### Week 1
 Wednesday Sept. 12th
+Project #1
 
 ```markdown
 Code goes here
-
-
 
 - Bulleted
 - List
@@ -18,6 +19,5 @@ Code goes here
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
 (https://guides.github.com/features/mastering-markdown/).
